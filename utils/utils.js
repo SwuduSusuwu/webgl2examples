@@ -119,7 +119,7 @@
             btr.x, btr.y, btr.z,
 
             //back
-            fbr.x, bbr.y, bbr.z,
+            bbr.x, bbr.y, bbr.z,
             bbl.x, bbl.y, bbl.z,
             btr.x, btr.y, btr.z,
             btr.x, btr.y, btr.z,
